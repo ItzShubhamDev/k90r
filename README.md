@@ -22,7 +22,7 @@ A Custom 90 Keys Keyboard including Rotary Encoder Switch, OLED powered by Rasbe
 | SK6812MINI-E                      | 90       | 1       | 6           | 540        | 5.94       | [LCSC](https://lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html) |
 | PCB (Option A)                    | 1        | 1       | 5429        | 5429       | 59.719     | [PCBPower](https://www.pcbpower.com/page/pcb-fabrication)                                                     |
 | PCB (Option B)                    | 1        | 1       | 5325        | 5325       | 58.575     | [JLCPCB](https://jlcpcb.com/)                                                                                 |
-| PCB (Option C)                    | 1        | 1       | TBD         | TBD        | TBD        | [LionCircuits](https://www.lioncircuits.com/)                                                                 |
+| PCB (Option C)                    | 1        | 1       | 8245        | 8245       | 90.695     | [LionCircuits](https://www.lioncircuits.com/)                                                                 |
 | 4.7 kΩ Resistor                   | 2        | 1       | -           | -          | -          | Self                                                                                                          |
 | 0.1 µF Capacitor                  | 1        | 1       | -           | -          | -          | Self                                                                                                          |
 | Allen CSK M3 Screw 30mm           | 5        | 1       | 11          | 55         | 0.605      | [Novo3D](https://novo3d.in/allen-csk-screw/)                                                                  |
